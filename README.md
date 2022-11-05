@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ranjeet.
 - 👀 I’m interested in computer vision, robotics and deep learning.
-- 🌱 I’m currently learning Quantizing techniques for deep learning models.
+- 🌱 I’m currently learning Quantization techniques for deep learning models.
 - 📫 Mail me at ranjeetkumar16722@gmail.com to collaborate on projects.
 
 <!---
